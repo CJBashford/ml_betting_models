@@ -6,6 +6,7 @@ All project code is written in Python, and within the repository the following f
 - `epl.csv`: contains the dataset of English Premier League matches, complete with formatted features
 - `nba.csv`: contains the dataset of NBA matches, complete with formatted features
 - `ufc.csv`: contains the dataset of UFC fights, complete with formatted features
+- `UFC Scraping.ipynb`, `UFC Individual Fight Stats.ipynb` and `Fighter Info Scraper.ipynb`, which contain code that scrapes ufcstats.com to pull together the basis for a dataset for use in the model.
 - `ML Models.ipynb`: contains the code implementing Logistic Regression, K Nearest Neighbours, Random Forest Classifier and Support Vector Machine algorithms for the three sports studied. These algorithms are implemented primarily using the `sklearn` library
 - `Neural Networks.ipynb`: contains the code implementing a Neural Network algorithm for the three sports studied. These algorithms are implemented through use of the `sklearn` library along with `keras`, part of the `tensorflow` package
 
